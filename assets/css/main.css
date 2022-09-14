@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #fff;
+		background: rgb(20,20,20);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -1817,7 +1817,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: #f7f7f7;
+		background: rgb(34,35,39);
 		border-radius: 0.35em;
 		border: solid 2px transparent;
 		color: inherit;
@@ -2591,9 +2591,9 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: #1f1815;
+		background-color: rgb(50,50,50);
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/Atlantis2.jpg");
+		/*background-image: url("images/overlay.png"), url("../../images/Atlantis2.jpg");*/
 		
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
@@ -3078,8 +3078,8 @@ input, select, textarea {
 
 			#footer {
 				background-attachment: scroll;
-				background-color: #1f1815;
-				background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+				background-color: rgb(50,50,50);
+				/*background-image: url("images/overlay.png"), url("../../images/bg.jpg");*/
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
 				background-size: auto,							cover;
